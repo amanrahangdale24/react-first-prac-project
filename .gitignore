@@ -1,1 +1,4 @@
 node_modules
+# Ignore SSH keys
+my_custom_key
+my_custom_key.pub
